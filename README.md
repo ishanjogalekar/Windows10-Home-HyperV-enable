@@ -27,5 +27,10 @@
 
 **Check PC configuration** - <br/>
 <p>
-<img alt="CPU" src="https://github.com/ishanjogalekar/Windows10-Home-HyperV-enable/blob/main/Images/CPU.JPG" width="400"/> 
+<img alt="CPU" src="https://github.com/ishanjogalekar/Windows10-Home-HyperV-enable/blob/main/Images/CPU.JPG" width="400"/>
+</p>
+
+**Turn On-Off windows features** - <br/> 
+<p>
+<img alt="turn-on" src="https://github.com/ishanjogalekar/Windows10-Home-HyperV-enable/blob/main/Images/turn-on.JPG" width="400"/>
 </p>
