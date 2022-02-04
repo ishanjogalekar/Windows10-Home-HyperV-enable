@@ -9,16 +9,16 @@
   
 --- 
 
-**Enable Hyper-V in windows 10 :** 
-1. Run Hyper-V.bat file with **Admin permission**. Giving administrative permission is very important.
+**Steps TO Enable Hyper-V In Windows 10 - Home:** 
+1. Run **Hyper-V.bat** file with **Admin permission**. Giving administrative permission is very important.
 2. It will download some essential files in your system so wait for some time. **Note** : Downloading speed is depend on your network connection. 
 3. Once it is fully completed , Go to *Turn on/of features* in windows , or search for it in **search bar**. 
-5. Turn on Hyper-v option by checking the particular box and click ok.
+5. **Turn on Hyper-v option** by checking the particular box and click ok.
 6. It will download some essential files.
 7. Once all files downloaded it will ask to restart the PC. 
-8. Now **restart the PC** and wait for boot-up of system.
+8. Now **Restart the PC** and wait for boot-up of system.
 9. Search for Hyper-V manager in search bar.
-10. Now you can enjoy Hyper-V manager in home edition also.
+10. Now you can enjoy **Hyper-V manager tool** in Windows 10 - Home edition also.
 
 ---
 
@@ -33,4 +33,9 @@
 **Turn On-Off windows features** - <br/> 
 <p>
 <img alt="turn-on" src="https://github.com/ishanjogalekar/Windows10-Home-HyperV-enable/blob/main/Images/turn-on.JPG" width="400"/>
+</p>
+
+**Hyper-V manager Tool** - <br/> 
+<p>
+<img alt="hyper-v" src="https://github.com/ishanjogalekar/Windows10-Home-HyperV-enable/blob/main/Images/hyper-v.JPG" width="400"/>
 </p>
