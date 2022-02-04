@@ -1,5 +1,7 @@
 @echo off
 
+echo Install Hyper-V manager in Windows 10 Home edition 
+
 echo Checking for permissions
 >nul 2>&1 "%SYSTEMROOT%\system32\cacls.exe" "%SYSTEMROOT%\system32\config\system"
 
