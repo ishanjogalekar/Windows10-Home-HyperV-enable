@@ -9,7 +9,7 @@
   
 --- 
 
-**Enable Hyper-V in windows 10 : ** 
+**Enable Hyper-V in windows 10 :** 
 1. Run Hyper-V.bat file with **Admin permission**. Giving administrative permission is very important.
 2. It will download some essential files in your system so wait for some time. **Note** : Downloading speed is depend on your network connection. 
 3. Once it is fully completed , Go to *Turn on/of features* in windows , or search for it in **search bar**. 
