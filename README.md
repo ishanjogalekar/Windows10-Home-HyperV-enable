@@ -24,3 +24,8 @@
 
 **Note : If your system / processor supports virtualization then only it will work**
 *To check processor's compatibility go to **Task Manager** and under perofrmance tab check CPU*
+
+**Check PC configuration** - <br/>
+<p>
+<img alt="CPU" src="https://github.com/ishanjogalekar/Windows10-Home-HyperV-enable/blob/main/Images/CPU.JPG" width="400"/> 
+</p>
