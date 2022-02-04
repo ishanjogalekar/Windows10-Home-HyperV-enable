@@ -23,7 +23,7 @@
 ---
 
 **Note : If your system / processor supports virtualization then only it will work**
-*To check processor's compatibility go to **Task Manager** and under perofrmance tab check CPU*
+*To check processor's compatibility go to **Task Manager** and under performance tab check CPU*
 
 **Check PC configuration** - <br/>
 <p>
